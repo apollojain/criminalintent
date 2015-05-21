@@ -13,4 +13,5 @@
     <string name="hello_world">Hello world!</string>
     <string name="title_activity_crime_list">CrimeListActivity</string>
     <string name="title_activity_crime_pager">CrimePagerActivity</string>
+    <string name="date_picker_title">Date of crime:</string>
 </resources>
